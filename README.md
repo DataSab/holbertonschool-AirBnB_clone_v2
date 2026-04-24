@@ -143,6 +143,6 @@ Usage: <class_name>.update(<_id>, <dictionary>)
 
 ## **Authors** :writing_hand:
 
-* **Abdelkader AOUAR**  - [Github](https://github.com/powerofcode2023)
-* **Claudine SILLAM** - [Github](https://github.com/Coconuts-del)
-* **Sabrina PAPEAU** - [Github](https://github.com/Holbiwan)
+* **Abdelkader**  - [Github](https://github.com/powerofcode2023)
+* **Claudine ** - [Github](https://github.com/Coconuts-del)
+* **Sabrina ** - [Github](https://github.com/DataSab)

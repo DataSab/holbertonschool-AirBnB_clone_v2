@@ -141,8 +141,3 @@ Usage: <class_name>.update(<_id>, <dictionary>)
 ```
 <br>
 
-## **Authors** :writing_hand:
-
-* **Abdelkader**  - [Github](https://github.com/powerofcode2023)
-* **Claudine ** - [Github](https://github.com/Coconuts-del)
-* **Sabrina ** - [Github](https://github.com/DataSab)
